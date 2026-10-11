@@ -1,7 +1,11 @@
 # .gitignore
 data/
-runs/
 __pycache__/
 *.pt
 *.pyc
 .env
+results/
+models/
+output_inference/
+*.zip
+*.ckpt

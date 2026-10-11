@@ -1,0 +1,9 @@
+# Python 3.10+. Tested with Python 3.14 (Windows, CPU) and Google Colab (GPU).
+# For an NVIDIA GPU, install the CUDA build of PyTorch first: https://pytorch.org/get-started/locally/
+# (Colab already ships one, so these lines leave it in place.)
+torch>=2.4
+torchvision>=0.19
+anomalib==2.4.1
+opencv-python>=4.8
+matplotlib>=3.7
+numpy
